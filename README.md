@@ -8,7 +8,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 | Enter quote                | Life is short                 | Display quote              |
 |Delete quote                | delete action                 | Deleted quote              |
 | up vote a quote            | up votes action               | up vote  +1                |
-| down vote a quote          | down votes action             | down vote +1               |                     
+| down vote a quote          | down votes action             | down vote +1               ||--------------------------- |------------------------------ |----------------------------|                     
 ##Setup/Installation Requirements
 Open your browser browser.
 Load gitHub on your browser.
