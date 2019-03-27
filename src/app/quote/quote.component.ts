@@ -17,7 +17,7 @@ export class QuoteComponent implements OnInit {
     new Quote(5,'Shortcuts make long delays','By Khadija Farid',new Date(2019,4,4),0,0),
     new Quote(6,'Your perception of me is a reflection of you','By Emma Kibore',new Date(2019,5,5),0,0),
     new Quote(7,'Keep your face to the sunshine and you cannot see a shadow','By Eddy Bombo',new Date(2019,11,11),0,0),
-    new Quote(8,'Your positive action combined with positive thinking result in success.','By Hussein Django',new Date(2019,12,15),0,0)
+    new Quote(8,'Your positive action combined with positive thinking result in success.','By Hussein Django',new Date(2019,12,15),0,0),
     new Quote(9,'Shortcuts make long delays','By Shirley Katumbo',new Date(2019,11,11),0,0),
     new Quote(10,'Childhood is a short season','By Cherry Shah',new Date(2019,5,12),0,0),
   ]

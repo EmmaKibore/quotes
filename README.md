@@ -9,7 +9,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 |Delete quote                | delete action                 | Deleted quote              |
 | up vote a quote            | up votes action               | up vote  +1                |
 | down vote a quote          | down votes action             | down vote +1               ||--------------------------- |------------------------------ |----------------------------|                     
-##Setup/Installation Requirements
+## Setup/Installation Requirements
 Open your browser browser.
 Load gitHub on your browser.
 Search for EmmaKibore/.... repository.
@@ -21,10 +21,10 @@ To access the live website, click on this url https://EmmaKibore.github.io/quote
 Known Bugs
 No Bugs
 
-##Technologies Used
+## Technologies Used
 CSS for styling. HTML for webpage design. Typescript for back-end.
 
-##Dependencies
+## Dependencies
 Angular CLI
 
 Support and contact details
