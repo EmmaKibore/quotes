@@ -1,8 +1,11 @@
 <h1>Quotes</h1>
 <ul>
   <div class="container">
+      <h2>Welcome to the Quotes palace!!</h2>
+      <p>Below are a couple of quotes.All tastes covered.</p>
   <div class="row" *ngFor='let quote of quotes;let i = index'>
     <div class="">
+        
    <li>{{quote.quote}}</li>
    <button class="btn btn-primary" (click)='seeDetails(i)'>See Details</button>
    <app-quote-details *ngIf="quote.showDetails" [quote]='quote' (isComplete)= 'deleteQuote($event,i)'></app-quote-details>

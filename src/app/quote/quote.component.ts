@@ -9,6 +9,8 @@ import { VoteCountPipe } from '../vote-count.pipe';
 })
 export class QuoteComponent implements OnInit {
 
+  
+
   quotes = [
     new Quote(1,'Science is organised knowledge.Wisdom is organised life','By Emma Kibore',new Date(2019,1,1),0,0),
     new Quote(2,'Try to be a rainbow in someones cloud','By Michelle Kibias',new Date(2019,2,2),0,0),
